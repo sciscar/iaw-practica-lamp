@@ -8,7 +8,7 @@ Esta práctica consiste en un sistema **muy básico** para añadir, editar, borr
 
 ## Créditos
 
-El código utilizado en esta práctica está basado en el repositorio [crud-php-simple][3] de [@chapagain][4].
+El código utilizado en esta práctica está basado en el repositorio [crud-php-simple][3] de [@josejuansanchez][4].
 
 [1]: http://www.php.net
 [2]: https://www.mysql.com
