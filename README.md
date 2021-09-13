@@ -1,6 +1,6 @@
 # iaw-practica-lamp
 
->IES Jaume II el just (Almería) - Curso 2021/2022  
+>IES Jaume II el just- Curso 2021/2022  
 >Módulo: IAW - Implantación de Aplicaciones Web  
 >Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
